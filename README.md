@@ -23,3 +23,21 @@ Data sulit dicari kembali
 -Membuat sistem perpustakaan berbasis web
 -Mempermudah pencarian buku
 -Digitalisasi pengelolaan data
+# SOLUSI
+Membangun website KHSR Digital Library dengan fitur:
+- Katalog buku
+- Pencarian
+- Detail buku
+- Dashboard admin
+# TEKNOLOGI
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: PHP
+- Database: MySQL
+- Tools: VS Code, XAMPP, GitHub
+# IMPLEMENTASI
+Halaman sistem:
+- Home
+- Katalog
+- Detail
+- Login
+- Dashboard Admin
