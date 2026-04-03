@@ -15,11 +15,11 @@ Pengelolaan data masih manual
 Sulit mengetahui ketersediaan buku
 Pencatatan peminjaman tidak terorganisir
 Data sulit dicari kembali
-#RUMUSAN MASALAH
+# RUMUSAN MASALAH
 -Bagaimana membuat sistem perpustakaan berbasis web?
 -Bagaimana mempermudah pencarian buku?
 -Bagaimana membantu pengelolaan data?
-#Tujuan
+# Tujuan
 -Membuat sistem perpustakaan berbasis web
 -Mempermudah pencarian buku
 -Digitalisasi pengelolaan data
