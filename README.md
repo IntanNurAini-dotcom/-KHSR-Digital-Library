@@ -10,3 +10,8 @@ Fitur utama:
 - Detail buku
 - Sistem peminjaman
 - Dashboard admin
+# PERMASALAHAN
+Pengelolaan data masih manual
+Sulit mengetahui ketersediaan buku
+Pencatatan peminjaman tidak terorganisir
+Data sulit dicari kembali
