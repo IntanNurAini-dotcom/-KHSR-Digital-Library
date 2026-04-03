@@ -41,3 +41,29 @@ Halaman sistem:
 - Detail
 - Login
 - Dashboard Admin
+# Alur Kerja KSHR Digital Library 
+ALUR SISTEM
+1. Alur Umum
+
+User mengakses website → sistem memproses → mengambil data dari database → menampilkan ke user.
+
+2. Alur Mahasantri
+Buka website
+Masuk ke katalog
+Melihat daftar buku
+Klik buku
+Melihat detail
+3. Alur Admin
+Login
+Masuk dashboard
+Kelola data buku (CRUD)
+Logout
+4. Alur Teknis
+Request dari browser
+Diproses PHP
+Akses database MySQL
+Data ditampilkan ke user
+5. Alur CRUD
+Tambah → INSERT
+Edit → UPDATE
+Hapus → DELETE
